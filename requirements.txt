@@ -1,0 +1,10 @@
+wheel
+numpy
+pandas
+openpyxl
+nltk
+wordcloud
+nltk
+sklearn
+missingno
+matplotlib
